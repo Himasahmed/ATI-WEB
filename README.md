@@ -1,8 +1,8 @@
 # ATI-WEB
 
-# ATIWEB
 
 # ATI Website - Lecturer Portal
+
 
 # Description
 This repository contains the codebase for the lecturer portal of the ATI (Advanced Technology Institute) website. The portal allows lecturers to register, log in, access a dashboard, and perform functions reserved for lecturers.
